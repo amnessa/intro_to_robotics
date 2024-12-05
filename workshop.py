@@ -4,7 +4,7 @@ from math import pi
 
 import matplotlib.pyplot as plt
 
-%matplotlib widget
+%matplotlib notebook
 
 
 T1 = SE3.Tx(1)
